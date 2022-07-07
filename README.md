@@ -5,6 +5,6 @@
 
 ### Personal Blog links
 
-https://blog.csdn.net/Jokeronee?type=blog
+[csdn](https://blog.csdn.net/Jokeronee?type=blog) (后续会慢慢把文章迁移到掘金内)
 <br/>
-https://www.zhihu.com/people/robber-70/posts
+[掘金](https://juejin.cn/user/176380262497832)
