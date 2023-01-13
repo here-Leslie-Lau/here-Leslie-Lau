@@ -17,9 +17,9 @@
 
 ### Individual statistics
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=here-Leslie-Lau&show_icons=true&theme=tokyonight)
+![all-smile's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=here-Leslie-Lau&show_icons=true&theme=tokyonight)
 
 Homepage page View Statistics: &ensp;
 ![Homepage page View Statistics](https://profile-counter.glitch.me/here-Leslie-Lau/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=here-Leslie-Lau&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=here-Leslie-Lau&layout=compact&theme=tokyonight)
