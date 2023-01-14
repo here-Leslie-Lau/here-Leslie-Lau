@@ -3,7 +3,8 @@
 
 - 🔭 I'm open sourcing something I'm passionate about
 - 📖 I'm learning english now💪
-- I'm a golang software engineer now😄
+- I'm a gopher now😄
+- I'm a vimer🐛
 
 ---
 
