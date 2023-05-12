@@ -10,9 +10,8 @@
 
 ### Personal Blog links
 
-[csdn](https://blog.csdn.net/Jokeronee?type=blog) (后续会慢慢把文章迁移到掘金内)
-<br/>
-[掘金](https://juejin.cn/user/176380262497832)
+[个人博客](https://here-Leslie-Lau.github.io) <br/>
+[csdn](https://blog.csdn.net/Jokeronee?type=blog) (后续会慢慢把文章迁移到个人博客内)
 
 ---
 
