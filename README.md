@@ -10,7 +10,7 @@
 
 ### Personal Blog links
 
-[个人博客](https://here-Leslie-Lau.github.io) <br/>
+[Blog](https://here-Leslie-Lau.github.io) <br/>
 
 ---
 
