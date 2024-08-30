@@ -5,6 +5,7 @@
 - 📖 I'm learning english now💪
 - I'm a gopher now😄
 - I'm a vimer🐛
+- And, btw, i use Arch...
 
 ---
 
