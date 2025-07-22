@@ -9,14 +9,16 @@
 
 ---
 
-### Personal Blog links
+### 🔎 Personal Blog links
 
 [Blog](https://here-Leslie-Lau.github.io) <br/>
+
+Also, you can find me on: <a href="mailto:i.leslie.lau@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
 ### Individual statistics
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=here-leslie-lau&show_icons=true&count_private=true&theme=radical&count_private=true)
+![all-smile's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=here-leslie-lau&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=here-leslie-lau&show_icons=true&theme=radical&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=here-leslie-lau&show_icons=true&theme=gruvbox&layout=compact&count_private=true)
