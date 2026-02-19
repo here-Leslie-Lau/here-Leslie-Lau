@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm open sourcing something I'm passionate about
-- 📖 I'm learning english now💪
+- 📖 I'm learning zig now (It's great!!!)
 - I'm a gopher now😄
 - I'm a vimer🐛
 - And, btw, i use Arch...
